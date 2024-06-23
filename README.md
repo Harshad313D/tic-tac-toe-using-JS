@@ -1,6 +1,10 @@
 # Tic-Tac-Toe
 
 This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Demo-blue.svg)](https://harshad313d.github.io/tic-tac-toe-using-JS/)
+
 
 ## Features
 
@@ -25,9 +29,8 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-You can view a live demo of the Tic-Tac-Toe game hosted on GitHub Pages by clicking the button below:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Demo-blue.svg)](https://harshad313d.github.io/tic-tac-toe-using-JS/)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Demo-blue.svg)](https://Harshad313D.github.io/tictactoe)
 
 ## Usage
 Open index.html in your web browser to start the game.

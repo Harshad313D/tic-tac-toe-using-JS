@@ -23,9 +23,11 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
    ```sh
    git clone https://github.com/yourusername/tictactoe.git
 
-# You can view a live demo of the Tic-Tac-Toe game hosted on GitHub Pages. Just click the link below:
+## Live Demo
 
-Live Demo
+You can view a live demo of the Tic-Tac-Toe game hosted on GitHub Pages by clicking the button below:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Demo-blue.svg)](https://yourusername.github.io/tictactoe)
 
 ## Usage
 Open index.html in your web browser to start the game.
